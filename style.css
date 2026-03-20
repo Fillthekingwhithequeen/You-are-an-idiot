@@ -1,0 +1,14 @@
+body {
+    background: white;
+    overflow: hidden;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+#idiot {
+    position: absolute;
+    font-size: 40px;
+    font-weight: bold;
+    user-select: none;
+    color: black;
+}
